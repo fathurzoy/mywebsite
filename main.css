@@ -52,3 +52,12 @@ a{
     color: white;
     margin-left: auto;
 }
+
+.container{
+    width: 100vw;
+    height: auto;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
